@@ -1,28 +1,73 @@
-*{
+{
     margin: 0;
     padding: 0;
-
-    
 }
+ 
 nav#menu ul{
     text-transform: uppercase;
-    list-style:  none;
+    list-style: none;
+    position: absolute;
+    top: 60px;
+    left: 970px;
 }
 nav#menu{
     display: block;
-
 }
+ 
 nav#menu li{
     display: inline-block;
+    background-color:rgb(74,7,191);
+    padding: 10px;
 }
 body{
-    background: rgb(255,8,8);
-    background: linear-gradient(90deg, rgba(255,8,8,1) 0%, rgba(163,5,152,1) 28%, rgba(0,12,99,0.9360119047619048) 94%);
+    background:rgb(74,7,191);
+ 
 }
 header{
-   background-color: azure;
-   padding-top: 70px;
-   padding-bottom: 60px;
-   position: relative;
-
+    background-color: antiquewhite;
+    padding-top: 70px;
+    padding-bottom: 12px;
+    position: relative;
 }
+*{     margin: 0 ;     padding: 0 ; }   n... por VITOR EDUARDO GOMES PEREIRA
+VITOR EDUARDO GOMES PEREIRA
+09:27
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+nav#menu ul{
+    text-transform: uppercase;
+    list-style: none;
+    position: absolute;
+    top: 60px;
+    left: 970px;
+}
+nav#menu{
+    display: block;
+}
+ 
+nav#menu li{
+    display: inline-block;
+    background-color:rgb(74,7,191);
+    padding: 10px;
+}
+body{
+    background:rgb(74,7,191);
+ 
+}
+header{
+    background-color: antiquewhite;
+    padding-top: 70px;
+    padding-bottom: 12px;
+    position: relative;
+}
+tem menu de contexto
+Redigir
+
+
+tem menu de contexto
+Colaborar neste chat
+Colaborar neste chat
+Adicione seu trabalho a um componente do Loop e todos
